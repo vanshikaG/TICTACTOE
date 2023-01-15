@@ -5,7 +5,7 @@
  */
 
 import "reflect-metadata";
-import app from "./App";
+import app  from "./App";
 var debug = require("debug")("socketio-server:server");
 import * as http from "http";
 import socketServer from "./socket";
